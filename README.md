@@ -72,9 +72,6 @@ TBH ("To Be Honest") is a gamified penetration testing environment inspired by p
 - **Challenge Lifecycle Management:** Automatically delete challenge resources after a timeout or allow users to extend the duration.
 - **User Isolation:** Ensure users can only access challenges they deployed.
 
-### Frontend
-- **Challenge Page:** Display the challenge domain after deployment and provide options to extend the duration or stop the challenge.
-
 ### Kubernetes
 - **Scaling:** Implement resource-based scaling for high user activity.
 
